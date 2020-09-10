@@ -1,4 +1,2 @@
 [compat]
 julia = "1.4"
-BAT="1.0.1"
-
